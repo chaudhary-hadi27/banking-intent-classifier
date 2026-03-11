@@ -80,8 +80,8 @@ with st.sidebar:
     **Chaudhary Hadi**  
     ML Engineer & AI Specialist
     
-    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhadi14)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/ChaudharyHadi27)
+    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaudhary-hadi27)
+    [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChaudharyHadi27)
     """)
 
 # Main content
