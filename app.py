@@ -81,7 +81,7 @@ with st.sidebar:
     ML Engineer & AI Specialist
     
     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhadi14)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaudhary-hadi)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/ChaudharyHadi27)
     """)
 
 # Main content
@@ -178,6 +178,6 @@ st.markdown("---")
 st.markdown(f"""
 <div style='text-align: center'>
     <p>Made with ❤️ by <strong>Chaudhary Hadi</strong> for Banking Customer Support</p>
-    <p style='font-size: 0.8em; color: #888;'>© 2024 Chaudhary Hadi. All rights reserved.</p>
+    <p style='font-size: 0.8em; color: #888;'>© 2026 Chaudhary Hadi. All rights reserved.</p>
 </div>
 """, unsafe_allow_html=True)

@@ -16,7 +16,7 @@ Fine-tuned BERT model to classify banking customer queries into 77 different int
 - Interactive Streamlit web app
 
 ## 🚀 Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](your-streamlit-url)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://banking-intent-classifier.streamlit.app/)
 
 ## 📊 Dataset
 - **Banking77** dataset from Hugging Face
